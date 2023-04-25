@@ -6,4 +6,8 @@ public class HomePage {
 
     // B
 
+    // C
+
+    // D
+
 }
