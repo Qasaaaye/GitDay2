@@ -8,4 +8,8 @@ public class Sales {
 
     //...
 
+    // 25%
+
+    // 30%
+
 }
