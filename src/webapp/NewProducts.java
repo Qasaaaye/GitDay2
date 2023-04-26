@@ -6,4 +6,8 @@ public class NewProducts {
     // jeans
 
     // socks
+
+    // shoe deals
+
+    // appliance sale
 }
