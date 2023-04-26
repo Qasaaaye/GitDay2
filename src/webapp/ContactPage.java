@@ -6,4 +6,6 @@ public class ContactPage {
     //instagram
     //youtube
     //email
+    // discord
+    //watsapp
 }
